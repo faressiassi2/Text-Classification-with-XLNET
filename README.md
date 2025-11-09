@@ -1,0 +1,3 @@
+- Data preprocessing.
+- Creating the embeddings, fine-tuning the model, and evaluating the model
+- Stack: Python, Scikit-learn, Transformers, Pandas, Numpy.
